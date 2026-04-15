@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\currency conversion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF25DAD5-F35F-41D5-9EF0-AD9CB5CAD389}|currency conversion\\currency conversion.csproj|c:\\users\\pc\\source\\repos\\currency conversion\\currency conversion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF25DAD5-F35F-41D5-9EF0-AD9CB5CAD389}|currency conversion\\currency conversion.csproj|solutionrelative:currency conversion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF25DAD5-F35F-41D5-9EF0-AD9CB5CAD389}|currency conversion\\currency conversion.csproj|c:\\users\\pc\\source\\repos\\currency conversion\\currency conversion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF25DAD5-F35F-41D5-9EF0-AD9CB5CAD389}|currency conversion\\currency conversion.csproj|solutionrelative:currency conversion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\currency conversion\\currency conversion\\Form1.cs",
+              "RelativeDocumentMoniker": "currency conversion\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\currency conversion\\currency conversion\\Form1.cs",
+              "RelativeToolTip": "currency conversion\\Form1.cs",
+              "ViewState": "AgIAAFUAAAAAAAC4XD0JwF8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T20:02:48.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\currency conversion\\currency conversion\\Form1.cs",
+              "RelativeDocumentMoniker": "currency conversion\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\currency conversion\\currency conversion\\Form1.cs [Design]",
+              "RelativeToolTip": "currency conversion\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:35:59.83Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

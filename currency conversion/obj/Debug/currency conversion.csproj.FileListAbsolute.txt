@@ -1,0 +1,32 @@
+C:\Users\PC\source\repos\currency conversion\currency conversion\bin\Debug\currency conversion.exe.config
+C:\Users\PC\source\repos\currency conversion\currency conversion\bin\Debug\currency conversion.exe
+C:\Users\PC\source\repos\currency conversion\currency conversion\bin\Debug\currency conversion.pdb
+C:\Users\PC\source\repos\currency conversion\currency conversion\obj\Debug\currency conversion.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\currency conversion\currency conversion\obj\Debug\currency_conversion.Form1.resources
+C:\Users\PC\source\repos\currency conversion\currency conversion\obj\Debug\currency_conversion.Properties.Resources.resources
+C:\Users\PC\source\repos\currency conversion\currency conversion\obj\Debug\currency conversion.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\currency conversion\currency conversion\obj\Debug\currency conversion.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\currency conversion\currency conversion\obj\Debug\currency conversion.exe
+C:\Users\PC\source\repos\currency conversion\currency conversion\obj\Debug\currency conversion.pdb
+C:\Users\rayan\OneDrive\Desktop\currency conversion\currency conversion\bin\Debug\currency conversion.exe.config
+C:\Users\rayan\OneDrive\Desktop\currency conversion\currency conversion\bin\Debug\currency conversion.exe
+C:\Users\rayan\OneDrive\Desktop\currency conversion\currency conversion\bin\Debug\currency conversion.pdb
+C:\Users\rayan\OneDrive\Desktop\currency conversion\currency conversion\obj\Debug\currency conversion.csproj.AssemblyReference.cache
+C:\Users\rayan\OneDrive\Desktop\currency conversion\currency conversion\obj\Debug\currency conversion.csproj.SuggestedBindingRedirects.cache
+C:\Users\rayan\OneDrive\Desktop\currency conversion\currency conversion\obj\Debug\currency_conversion.Form1.resources
+C:\Users\rayan\OneDrive\Desktop\currency conversion\currency conversion\obj\Debug\currency_conversion.Properties.Resources.resources
+C:\Users\rayan\OneDrive\Desktop\currency conversion\currency conversion\obj\Debug\currency conversion.csproj.GenerateResource.cache
+C:\Users\rayan\OneDrive\Desktop\currency conversion\currency conversion\obj\Debug\currency conversion.csproj.CoreCompileInputs.cache
+C:\Users\rayan\OneDrive\Desktop\currency conversion\currency conversion\obj\Debug\currency conversion.exe
+C:\Users\rayan\OneDrive\Desktop\currency conversion\currency conversion\obj\Debug\currency conversion.pdb
+C:\Users\rayan\OneDrive\Desktop\ريان بانصر\تحويل العملات\currency conversion\bin\Debug\currency conversion.exe.config
+C:\Users\rayan\OneDrive\Desktop\ريان بانصر\تحويل العملات\currency conversion\bin\Debug\currency conversion.exe
+C:\Users\rayan\OneDrive\Desktop\ريان بانصر\تحويل العملات\currency conversion\bin\Debug\currency conversion.pdb
+C:\Users\rayan\OneDrive\Desktop\ريان بانصر\تحويل العملات\currency conversion\obj\Debug\currency conversion.csproj.AssemblyReference.cache
+C:\Users\rayan\OneDrive\Desktop\ريان بانصر\تحويل العملات\currency conversion\obj\Debug\currency conversion.csproj.SuggestedBindingRedirects.cache
+C:\Users\rayan\OneDrive\Desktop\ريان بانصر\تحويل العملات\currency conversion\obj\Debug\currency_conversion.Form1.resources
+C:\Users\rayan\OneDrive\Desktop\ريان بانصر\تحويل العملات\currency conversion\obj\Debug\currency_conversion.Properties.Resources.resources
+C:\Users\rayan\OneDrive\Desktop\ريان بانصر\تحويل العملات\currency conversion\obj\Debug\currency conversion.csproj.GenerateResource.cache
+C:\Users\rayan\OneDrive\Desktop\ريان بانصر\تحويل العملات\currency conversion\obj\Debug\currency conversion.csproj.CoreCompileInputs.cache
+C:\Users\rayan\OneDrive\Desktop\ريان بانصر\تحويل العملات\currency conversion\obj\Debug\currency conversion.exe
+C:\Users\rayan\OneDrive\Desktop\ريان بانصر\تحويل العملات\currency conversion\obj\Debug\currency conversion.pdb
